@@ -1,11 +1,53 @@
-# Challenge-Amigo-Secreto
-Desafio de Amigo secreto 
+🎉 Desafío: Amigo Secreto en la Web
 
-En este desafío por parte de mi formacion como programador, tuve que crear una pagina que permitiera a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto".
-Instruciones.
-El usuario deberá agregar nombres mediante un campo de texto y clikear el botón "Añadir" por cada nombre escrito. 
-Los nombres ingresados se mostrarán en una lista visible en la página, y al finalizar debera precionar el botón "Sortear Amigo" se seleccionará uno de los nombres de forma aleatoria, mostrando el resultado en pantalla.
-Luego de aproximadamente 20 segundo el Sorteo se reiniciara para comensar una nueva lista de amigos. 
+¡Bienvenido al desafío más divertido de tu formación como programador! 🚀 Aquí desarrollarás una página web interactiva para organizar tu propio sorteo de “Amigo Secreto” de forma rápida y sencilla.
 
+✍️ Descripción
+
+En este proyecto, los usuarios podrán:
+
+Agregar nombres de amigos a una lista dinámica.
+
+Visualizar inmediatamente los nombres ingresados.
+
+Sortear al “Amigo Secreto” con un solo clic.
+
+Reiniciar automáticamente el sorteo pasados 20 segundos para comenzar de nuevo.🌐
+
+🛠️ Instrucciones de uso
+
+Escribe un nombre: En el campo de texto, introduce el nombre de un amigo.
+
+Haz clic en “Añadir”: Cada pulsación agrega ese nombre a la lista visible.
+
+Observa tu lista: Verás cada nombre justo debajo del formulario.
+
+¡Sortea al Amigo Secreto! Pulsa el botón “Sortear Amigo” y un nombre se revelará con un efecto visual.
+
+Disfruta la emoción: Después de 20 segundos, el sorteo se reinicia solo, ¡listo para un nuevo grupo!
+
+🚀 Tecnologías y Herramientas
+
+HTML5 para la estructura básica.
+
+CSS3 para estilos modernos y animaciones.
+
+JavaScript para:
+
+Gestión de eventos (clicks, temporizador).
+
+Manipulación del DOM (agregar/quitar nombres).
+
+Generación de números aleatorios y lógica del sorteo.
+
+🌈 Características destacadas
+
+Interfaz amigable: Diseño limpio y botones intuitivos.
+
+Validación instantánea: Evita nombres vacíos o duplicados.
+
+Animación de sorteo: Un efecto de suspense antes de revelar al amigo secreto.
+
+Reinicio automático: ¡No te preocupes por refrescar la página! 😎
 
 
